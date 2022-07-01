@@ -30,4 +30,5 @@
 
 ## Nearby
 
+- [Awesome Dundee Tech](https://github.com/dougaitken/awesome-dundee-tech)
 - [Awesome Glasgow Tech](https://github.com/AddJam/awesome-glasgow-tech)
