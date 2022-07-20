@@ -27,7 +27,7 @@
 
 ## Hiring
 
-- [Adobe](https://www.adobe.com/careers.html)
+- [Adobe](https://www.adobe.com/careers.html), ([direct search for the Edinburgh Office](https://adobe.wd5.myworkdayjobs.com/external_experienced?locations=3ba4ecdf4893100bc84ae0da81726bfc))
 
 
 ## Nearby
