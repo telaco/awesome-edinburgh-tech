@@ -29,6 +29,11 @@
 
 - [Adobe](https://www.adobe.com/careers.html), ([direct search for the Edinburgh Office](https://adobe.wd5.myworkdayjobs.com/external_experienced?locations=3ba4ecdf4893100bc84ae0da81726bfc))
 
+## Resources
+
+Collection of useful places to find out more about Edinburgh tech.
+
+* [Dev & Tech Scotland Slack Channel](http://links.devtech.scot/slack) - Slack channel for the technical community in Scotland
 
 ## Nearby
 
