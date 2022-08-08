@@ -24,6 +24,7 @@
 
 - [Engage, Invest, Exploit](https://www.eie-invest.com/) - Investor Readiness Programme with an annual conference
 - [Turing Fest](https://www.turingfest.com/)
+- [The European Chatbot & Conversational AI Summit](https://theeuropeanchatbot.com/)
 
 ## Hiring
 
