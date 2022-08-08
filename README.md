@@ -24,6 +24,7 @@
 
 - [Engage, Invest, Exploit](https://www.eie-invest.com/) - Investor Readiness Programme with an annual conference
 - [Turing Fest](https://www.turingfest.com/)
+- [The European Chatbot & Conversational AI Summit](https://theeuropeanchatbot.com/)
 
 ## Hiring
 
@@ -34,6 +35,7 @@
 Collection of useful places to find out more about Edinburgh tech.
 
 * [Dev & Tech Scotland Slack Channel](http://links.devtech.scot/slack) - Slack channel for the technical community in Scotland
+* [UX in Scotland](https://www.facebook.com/groups/1436030413315813) - Facebook group for UX community in Scotland
 
 ## Nearby
 
