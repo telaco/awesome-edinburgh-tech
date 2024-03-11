@@ -23,6 +23,7 @@
 ## Conferences
 
 - [Engage, Invest, Exploit](https://www.eie-invest.com/) - Investor Readiness Programme with an annual conference
+- [ScotSoft](https://scotsoft.scot) - Conference for Software Developers and Digital Leaders, including Young Software Engineer ot the Year Awards
 - [Turing Fest](https://www.turingfest.com/)
 - [The European Chatbot & Conversational AI Summit](https://theeuropeanchatbot.com/)
 
