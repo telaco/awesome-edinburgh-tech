@@ -5,6 +5,7 @@
 ## Meetups
 
 - [EdinburghJS](https://www.edinburghjs.org) - JavaScript meetup
+- [Edinburgh Azure User Group](https://www.meetup.com/edinburgh-azure-user-group/) - Azure User Group
 - [Flutter Edinburgh/Glasgow](https://www.meetup.com/flutter-edin-glas/), [Twitter](https://twitter.com/flutterscotland)
 - [IOT Scotland](https://www.meetup.com/iotscotland/) - Internet of Things
 - [ProductTank](https://www.meetup.com/producttankedi/) - Product Design and Development
